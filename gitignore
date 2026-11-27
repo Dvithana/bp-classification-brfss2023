@@ -1,0 +1,11 @@
+# Data (download from CDC, too large for GitHub)
+*.csv
+*.xpt
+*.XPT
+*.zip
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
