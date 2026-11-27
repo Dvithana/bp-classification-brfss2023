@@ -6,7 +6,7 @@ This project builds and compares machine learning classifiers on the CDC's **BRF
 > Data Science module coursework — BSc (Hons) Computing, Coventry University (via NIBM).
 > This is a **screening-support** study, not a medical diagnostic tool.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Dvithana/bp-classification-brfss2023/blob/main/DS_CW.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dvithana/bp-classification-brfss2023/blob/main/DS_CW.ipynb)
 
 ## Results
 
